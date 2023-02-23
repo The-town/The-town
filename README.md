@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 [![The-town's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-town&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-town&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
+
+
+- 🌱 I’m currently learning Golang and Rust ! 
